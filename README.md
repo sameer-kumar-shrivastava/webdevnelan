@@ -17,7 +17,7 @@ DevIN is a platform for developers to connect with each other
 In the terminal, you can run:
 
 ```bash
-git clone https://github.com/shardakumari505/webdevnelan.git
+git clone https://github.com/sameer-kumar-shrivastava/webdevnelan
 cd webdevnelan
 npm install     #Installing dependencies
 npm start       #Starting dev server
